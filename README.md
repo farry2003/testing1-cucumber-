@@ -3,8 +3,8 @@ The goal of this project is to ensure behavior-driven development (BDD) practice
 
 Technologies Used
 
-Cucumber (Gherkin)
-Selenium WebDriver
-Java (or your language)
-Maven/Gradle
-JUnit/TestNG
+1 .Cucumber (Gherkin)
+2. Selenium WebDriver
+3. Java (or your language)
+4. Maven/Gradle
+5. JUnit/TestNG
